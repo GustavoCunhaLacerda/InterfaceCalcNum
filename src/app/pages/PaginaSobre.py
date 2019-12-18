@@ -25,7 +25,7 @@ class PaginaSobre(tk.Frame):
         )
         title_label.pack(side = "top", fill = "x")
         
-        texto_sobre_completo = "\n\nEsse é um app de código fonte livre para\nestudos e análise dos métodos numéricos por meio\n de um ambiente gráfico.\n\nVersão ALPHA 1.0\n\n\n\n\nFeito por: Gustavo Cunha Lacerda\n\n\nPaper Clip Software"
+        texto_sobre_completo = "\n\nEsse é um app de código fonte livre para\nestudos e análise dos métodos numéricos por meio\n de um ambiente gráfico.\n\nVersão ALPHA 1.0\n\n\n\n\nFeito por:\nGustavo Cunha Lacerda\nEllian Aragão Dias\n\nPaper Clip Software"
 
         text_label = tk.Label(self, text=texto_sobre_completo, font=FONTE)
         text_label.pack(pady=10,padx=10)

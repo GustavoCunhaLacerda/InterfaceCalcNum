@@ -16,3 +16,5 @@ class expressao_generica:
             Metodo que retorna o valor de f(val)
         '''
         return self.expression.evalf(subs={x:val})
+    
+    

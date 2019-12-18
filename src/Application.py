@@ -1,3 +1,13 @@
+import sys
+
+application_path = sys.path[0] 
+sys.path.append(application_path+'/app/')
+sys.path.append(application_path+'/app/pages/')
+sys.path.append(application_path+'/app/methods/')
+sys.path.append(application_path+'/app/methods/integracao')
+sys.path.append(application_path+'/app/methods/interp')
+sys.path.append(application_path+'/app/methods/raizes')
+
 import tkinter as tk
 
 from PaginaPrincipal import *
