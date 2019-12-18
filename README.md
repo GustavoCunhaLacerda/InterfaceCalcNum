@@ -1,6 +1,6 @@
 # **Calculo Numérico Interativo (ALPHA 1.0)**
 
-Para executar basta, na pasta `/cn-interface/src/app`, executar o programa ` Application.py` com todas as bibliotecas (Tkinter, Numpy, Sympy e Matplotlib) do python3 baixadas.
+Para executar basta, na pasta `/cn-interface/src/`, executar o programa ` Application.py` com todas as bibliotecas (Tkinter, Numpy, Sympy e Matplotlib) do python3 baixadas.
 
 
 ### Objetivo
